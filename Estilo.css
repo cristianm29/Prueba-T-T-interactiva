@@ -1,0 +1,32 @@
+table{
+    text-align: center;
+
+}
+
+h1{
+    color: #900C3F;
+}
+
+input.B{
+
+    background-color: #900C3F;
+    color: white;
+    border:none;
+    border-radius: 5%;
+    padding: 8px;
+    width: 80px;
+    transition: width 0.25s;
+
+}
+
+input.B:hover{
+
+    background-color: #900C3F;
+    color: white;
+    border: none;
+    border-radius: 7%;
+    padding: 8px;
+    width: 90px;
+
+}
+
